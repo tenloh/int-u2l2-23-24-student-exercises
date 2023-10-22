@@ -1,5 +1,7 @@
 # Lesson 2.2: HTML Tags w/ Attributes
 
+### Ten adding random lines
+
 ### 🎯 Objectives
 - Create HTML elements with attributes to add links and images to their pages.
 
